@@ -21,6 +21,11 @@ The dataset presented an imbalance in the instances of stroke data, requiring a 
 
 ![image](https://github.com/soumya1107/Stroke-Prediction-Hackathon-Kaggle/assets/64662510/4f262bef-3c3e-49e8-b217-44f4e81e17d5)
 
+Dataset after SMOTE operation
+
+![image](https://github.com/soumya1107/Stroke-Prediction-Hackathon-Kaggle/assets/64662510/571c37b5-728e-479b-8b4d-169a6b91de23)
+
+
 
 #### Categorical to Numerical Conversion
 Converting categorical values into numerical form was a vital step. Each categorical feature underwent encoding, transforming them into numerical representations that could be effectively utilized by machine learning models.
